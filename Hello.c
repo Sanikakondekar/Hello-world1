@@ -4,5 +4,5 @@ void main()
   print("Hello world...");
 }
 {
-  print(/nthis is a simple basic programe");
+  print(/nthis is a simple1 basic programe");
         }
